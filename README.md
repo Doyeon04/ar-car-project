@@ -42,3 +42,9 @@
 - 모바일 터치만으로 3D 차 모델을 다양한 각도와 크기로 관찰해 볼 수 있으며, 차 기종을 바꿔가며 각각의 기종들을 비교할 수 있습니다.
 
 <br>
+
+## 실행 영상
+
+[![thumb](https://user-images.githubusercontent.com/71643491/219302719-0d9daf23-3fe0-4ffb-96ef-2a0c11a52bf4.png)](https://yeoncoding.tistory.com/823)
+<br>
+
